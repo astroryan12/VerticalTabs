@@ -6,7 +6,7 @@
 
 3. If need be, delete the old chrome folder and paste the new chrome folder into the directory.
 
-3. In the userChrome.css file in the newly pasted 'chrome' folder, the final line, '@import url(userChrome-hover.css)' denotes 'userChrome-hover.css' as the default layout. If you wish to change this, simply replace the 'hover' portion in that line, to 'overlay', or 'static', depending on which format you prefer. 
+3. In the `userChrome.css` file in the newly pasted 'chrome' folder, the final line, `@import url(userChrome-hover.css)` denotes `userChrome-hover.css` as the default layout. If you wish to change this, simply replace the 'hover' portion in that line, to 'overlay', or 'static', depending on which format you prefer. 
 
 
 # UserChrome Configs
