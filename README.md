@@ -9,4 +9,5 @@ Follow the installation instructions in the READMEs in both the [chrome](https:/
 The [Tree Style Tab add-on](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/) is required.
 
 --
+
 Thanks to [h4wwk3ye](https://github.com/h4wwk3ye/firefoxCSS) for the improvements made on [Flying Fox](https://github.com/akshat46/FlyingFox), allowing me to adjust the layout to work well on Windows while keeping as close to Firefox's native design as possible.
