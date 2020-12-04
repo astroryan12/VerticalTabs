@@ -26,8 +26,8 @@ There's two main sidebar components.
     position: relative !important;
     background: var(--sidebar-background-color) !important;
     padding-top: calc(-1 * var(--menubar-height));
-    min-width: 0px;
-    max-width: 0px;
+    min-width: var(--initial-width) !important;
+    max-width: var(--initial-width) !important;
 }
 
 #sidebar-header,
