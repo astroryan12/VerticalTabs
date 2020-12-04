@@ -14,3 +14,11 @@ The [Tree Style Tab add-on](https://addons.mozilla.org/en-US/firefox/addon/tree-
 --
 
 Thanks to [h4wwk3ye](https://github.com/h4wwk3ye/firefoxCSS) for the improvements made on [Flying Fox](https://github.com/akshat46/FlyingFox), allowing me to adjust the layout to work well on Windows while keeping as close to Firefox's native design as possible.
+
+# Troubleshooting
+
+1. If the sidebar is not showing up at all after installation, be sure to left click the Tree Style Tab add-on in the top bar in order to turn on the extension.
+
+# Known Issues
+
+- Pinned tabs not working properly 
