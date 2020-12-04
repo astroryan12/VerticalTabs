@@ -9,7 +9,7 @@ This configuration changes the sidebar behavior. There are three options.
 Takes up the least space, expands when hovered.
 
 ![userChrome-hover](https://github.com/astroryan12/VerticalTabs/blob/main/imgs/layout-hover1.png)
-![userChrome-hover)[https://github.com/astroryan12/VerticalTabs/blob/main/imgs/layout-hover1.png)
+![userChrome-hover](https://github.com/astroryan12/VerticalTabs/blob/main/imgs/layout-hover1.png)
 
 ### 2. `userChrome-overlay`
 
