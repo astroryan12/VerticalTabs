@@ -1,4 +1,4 @@
-# FirefoxTstWindows
+# Vertical Tabs for Firefox
 CSS for firefox to enable attractive tree style tabs for Windows.
 
 ![FirefoxTstWindows](https://github.com/astroryan12/FirefoxTstWindows/blob/main/imgs/layout-hover1.png)
