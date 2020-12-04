@@ -8,19 +8,20 @@ This configuration changes the sidebar behavior. There are three options.
 
 Takes up the least space, expands when hovered.
 
-![userChrome-hover](https://github.com/akshat46/FlyingFox/blob/master/img/userChrome-hover.png)
+![userChrome-hover](https://github.com/astroryan12/VerticalTabs/blob/main/imgs/layout-hover1.png)
+![userChrome-hover)[https://github.com/astroryan12/VerticalTabs/blob/main/imgs/layout-hover1.png]
 
 ### 2. `userChrome-overlay`
 
 Permanently expanded, hides page content behind it. Best used with a quick [shortcut to toggle tst](https://support.mozilla.org/en-US/kb/manage-extension-shortcuts-firefox)
 
-![userChrome-overlay](https://github.com/akshat46/FlyingFox/blob/master/img/userChrome-overlay.png)
+![userChrome-overlay](https://github.com/astroryan12/VerticalTabs/blob/main/imgs/layout-overlay.png)
 
 ### 3. `userChrome-static`
 
 Permanently expanded, does not hide page content behind it. Resizes webpage whenever toggled.
 
-![userChrome-static](https://github.com/akshat46/FlyingFox/blob/master/img/userChrome-static.png)
+![userChrome-static](https://github.com/astroryan12/VerticalTabs/blob/main/imgs/layout-static.png)
 
 ## Installation
 
