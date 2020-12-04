@@ -17,7 +17,7 @@ Thanks to [h4wwk3ye](https://github.com/h4wwk3ye/firefoxCSS) for the improvement
 
 # Troubleshooting
 
-1. If the sidebar is not showing up at all after installation, be sure to left click the Tree Style Tab add-on in the top bar in order to turn on the extension.
+- If the sidebar is not showing up at all after installation, be sure to left click the Tree Style Tab add-on in the top bar in order to turn on the extension.
 
 # Known Issues
 
