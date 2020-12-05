@@ -1,8 +1,8 @@
 # Vertical Tabs for Firefox
 CSS for firefox to replace the old horizontal tab layout with an attractive new Vertical Tabs layout for Windows.
 
-![FirefoxTstWindows](https://github.com/astroryan12/VerticalTabs/blob/main/imgs/layout-hover1.png)
-![FirefoxTstWindows](https://github.com/astroryan12/VerticalTabs/blob/main/imgs/layout-hover.png)
+![Vertical Tabs for Firefox](https://github.com/astroryan12/VerticalTabs/blob/main/imgs/layout-hover1.png)
+![Vertical Tabs for Firefox](https://github.com/astroryan12/VerticalTabs/blob/main/imgs/layout-hover.png)
 
 This is heavily based on [FlyingFox](https://github.com/akshat46/FlyingFox), but replaces the material design in order to remain closer to how firefox is designed, and more closely follow the Windows layout.
 
