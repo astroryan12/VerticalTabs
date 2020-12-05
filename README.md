@@ -40,5 +40,3 @@ Unlike the Overlay layout, the Static layout is permanently expanded, so the con
 # Troubleshooting
 
 - If the sidebar is not showing up at all after installation, be sure to left click the Tree Style Tab add-on in the top bar in order to turn on the extension.
-
-![# Known Issues]
