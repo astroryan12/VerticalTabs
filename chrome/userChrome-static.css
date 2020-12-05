@@ -46,7 +46,7 @@ There's two main sidebar components.
 
 toolbar#nav-bar {
     margin-top: var(--toolbar-height);
-    margin-right: var(--initial-width);
+    margin-right: 138px;
     border: none !important;
 }
 
