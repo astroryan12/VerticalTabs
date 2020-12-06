@@ -42,7 +42,3 @@ Unlike the Overlay layout, the Static layout is permanently expanded, so the con
 - If the 'Tree Style Tab' header is appearing, and/or the top bar isn't functioning correctly, ensure 'toolkit.legacyUserProfileCustomizations.stylesheets' is set to 'true' in 'about:config'.
 
 - If the sidebar is not showing up at all after installation, be sure to left click the Tree Style Tab add-on in the top bar in order to turn on the extension.
-
-!# Known Issues
-
-- Bookmarks toolbar not currently functional. Working on fix.
