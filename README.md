@@ -6,7 +6,6 @@ CSS for Firefox to replace the old horizontal tab layout with an attractive new 
 
 This is heavily based on [FlyingFox](https://github.com/akshat46/FlyingFox), but replaces the material design in order to remain closer to how firefox is designed, and more closely follow the Windows layout.
 
-
 ## Installation
 
 1. Based on the below table, chose whichever layout you want. You will only need to use one of these layouts, so the other two can be discarded.
@@ -37,12 +36,13 @@ Unlike the Overlay layout, the Static layout is permanently expanded, so the con
 
 ![userChrome-static](https://github.com/astroryan12/VerticalTabs/blob/main/imgs/layout-static.png)
 
+
 # Troubleshooting
 
 - If the 'Tree Style Tab' header is appearing, and/or the top bar isn't functioning correctly, ensure 'toolkit.legacyUserProfileCustomizations.stylesheets' is set to 'true' in 'about:config'.
 
 - If the sidebar is not showing up at all after installation, be sure to left click the Tree Style Tab add-on in the top bar in order to turn on the extension.
 
-# Known Issues
+!# Known Issues
 
 - Bookmarks toolbar not currently functional. Working on fix.

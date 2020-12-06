@@ -9,7 +9,7 @@ This configuration changes vertical tabs behavior to expand when hovering the mo
 
 ## Installation
 
-1. Open your Firefox profile directory. To find your profile directory, type `about:support` in Firefox's address bar.
+1. Open your Firefox profile directory. To find your profile directory, type 'about:support' in Firefox's address bar.
 
 2. If there is a `chrome` folder in this directory, delete it, and paste the new `chrome` folder into the profile directory.
 

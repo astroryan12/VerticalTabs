@@ -2,10 +2,8 @@
 
 /* show bookmarks toolbar on new tab only */
 #main-window #PersonalToolbar {
-    visibility: collapse !important;
     z-index: 1 !important;
     position: relative !important;
-    margin-left: var(--initial-width); /* shift toolbar to the left based on initial width */
     margin-top: var(--toolbar-height) !important;
 }
 
@@ -56,6 +54,16 @@ There's two main sidebar components.
     box-shadow: 2px 0 33px var(--shadow-color);
 }
 
+#sidebar-box[sidebarcommand="viewHistorySidebar"] #sidebar {
+    transform: translateX(0) !important;
+    box-shadow: 2px 0 33px var(--shadow-color);
+}
+
+#sidebar-box[sidebarcommand="viewTabsSidebar"] #sidebar {
+    transform: translateX(0) !important;
+    box-shadow: 2px 0 33px var(--shadow-color);
+}
+
 #main-window[title^="Firefox Developer Edition"] #sidebar-box {
     margin-top: var(--toolmenubar-height) !important;
 }
@@ -71,10 +79,35 @@ toolbar#nav-bar {
 }
 
 toolbar {
-    border: none !important;
+   border: none !important;
 }
 
 /* hide normal horizontal tab bar */
 #TabsToolbar {
     display: none;
+}
+
+/* Hides Tabbar in Fullscreen */
+[inFullscreen="true"] #sidebar-box {
+    z-index: 1000 !important;
+    position: relative !important;
+    background: var(--sidebar-background-color) !important;
+    padding-top: calc(-1 * var(--menubar-height));
+    min-width: calc(-1 * var(--initial-width)) !important;
+    max-width: calc(-1 * var(--initial-width)) !important;
+}
+
+/* Shows Tabbar on mouse hover */
+[inFullscreen="true"] #sidebar-box #sidebar {
+    transition: all 0.2s ease-in-out;
+    box-shadow: 2px 0 33px -5px var(--shadow-color);
+    background: var(--sidebar-background-color) !important;
+    transform: translateX(calc(1% - var(--sidebar-width))) !important;
+    transition: all 0.2s ease-in-out;
+}
+
+
+[inFullscreen="true"] #sidebar-box #sidebar:hover {
+    transform: translateX(0) !important;
+    box-shadow: 2px 0 33px var(--shadow-color);
 }
